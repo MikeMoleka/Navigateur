@@ -1,0 +1,2 @@
+- indomptation
+- factorisation de la commande ajax
